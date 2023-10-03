@@ -14,6 +14,7 @@ Tasks:
 Thereafter, two amazing financial marketing and summary dashboards were created for the client, and several trends in the underlying data were shown; financial metrics and KPIs were generated; top product brands, lines, and classes were shown; and a monthly trend for the monthly list price was shown. Furthermore, the customer segment with the highest customer value was shown, proposals were made for Sprocket Central Pty Ltd’s marketing and growth strategy, and greater insights were drafted from visualizations into customer preferences and propensity to purchase the products.
 
 ![](./Sprocket_header.JPG).
+
 Data-informed insights and decisions for Sprocket Central Pty Ltd ’s growth and improvement in moving forward the sales of bikes & cycling accessories and for effective marketing
 are explained here.
 
