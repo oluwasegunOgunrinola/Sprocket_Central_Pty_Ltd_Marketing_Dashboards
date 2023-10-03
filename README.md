@@ -51,3 +51,5 @@ The Customer segment with the highest customer value is the Mass Customer (50.97
 
 
 This virtual internship program exposed me to many different skills, such as data analysis, data cleaning, data modeling, data visualization, problem solving, design thinking, data presentation, and more!
+
+# Download pdf. and pbix. file for the detailed and comprehensive report
